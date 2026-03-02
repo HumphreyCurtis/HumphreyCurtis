@@ -5,5 +5,6 @@ I build human-centered AI systems and full-stack products focused on real-world 
 ## 🔗 Links
 
 🌐 Website: [humphreycurtis.github.io](https://humphreycurtis.github.io)
+
 📚 Google Scholar: [View publications](https://scholar.google.com/citations?user=t4HUO4MAAAAJ&hl=en)
 
