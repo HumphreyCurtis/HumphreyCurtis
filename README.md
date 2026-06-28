@@ -61,5 +61,5 @@ Human-Computer Interaction · Accessibility · Generative AI · Augmentative & A
 
 - 🏫 **University:** humphrey.curtis@kcl.ac.uk
 - 🌐 **Website:** [humphreycurtis.github.io](https://humphreycurtis.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/humphrey-curtis](www.linkedin.com/in/humphrey-curtis)
+- 💼 **LinkedIn:** [linkedin.com/in/humphrey-curtis](https://www.linkedin.com/in/humphrey-curtis)
 - 🐦 **Twitter:** [@HumphreyCurtis4](https://x.com/HumphreyCurtis4)
