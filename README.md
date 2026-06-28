@@ -27,7 +27,7 @@ I build human-centred technologies focused on real-world **accessibility**. I'm 
 |--------|---------|
 | ✅ | Research Associate @ KCL — [Advokit](https://www.advokit.uk/) |
 | ♿ | ASSETS '26 Accessibility Co-Chair, Porto |
-| ⌚ | Open-sourcing wearable AAC tools (smartwatch · smartbadge · HoloLens) |
+| ⌚ | Open-sourcing wearable AAC tools |
 
 ---
 
