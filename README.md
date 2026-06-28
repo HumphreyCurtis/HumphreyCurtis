@@ -26,25 +26,33 @@ I build human-centred technologies focused on real-world **accessibility**. I'm 
 | Status | Project |
 |--------|---------|
 | ✅ | Research Associate @ KCL — [Advokit](https://www.advokit.uk/) |
+| 📝 | Paper under review: LLM welfare toolkit co-designed with aphasia communities (ASSETS '26) |
 | ♿ | ASSETS '26 Accessibility Co-Chair, Porto |
-| ⌚ | Open-sourcing wearable AAC tools |
+| ⌚ | Open-sourcing wearable AAC tools (smartwatch · smartbadge · HoloLens) |
 
 ---
 
 ## 🔬 Research Interests
 
- Human-Computer Interaction · Generative AI · Accessibility · Wearable Technologies · Participatory Design · Augmentative & Alternative Communication 
+Human-Computer Interaction · Accessibility · Generative AI · Augmentative & Alternative Communication · Wearable Technologies · Participatory Design
+
+---
+
+## 🏆 Selected Awards
+
+- 🥇 **2026 ACM SIGCHI Outstanding Dissertation Award** — Top doctoral thesis in HCI worldwide
+- 🥇 **2023 Best Paper Award, ACM CHI** — Top 1% of ~3,500 submissions
+- 🥇 **2023 Best Student Paper Award, ACM ASSETS**
+- ⭐ **2024 Best Paper Nomination, ACM ASSETS** — Top 5 of ~220 submissions
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Humphrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HumphreyCurtis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyCurtis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HumphreyCurtis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyCurtis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 ---
