@@ -4,7 +4,7 @@
 
 **Research Associate @ King's College London · PhD in Computer Science**
 
-*Building human-centred technologies for real-world accessibility*
+*Building human-centred technologies at the intersection of GenAI and accessibility*
 
 <br/>
 
