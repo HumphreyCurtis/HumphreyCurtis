@@ -53,6 +53,8 @@ Human-Computer Interaction · Accessibility · Generative AI · Augmentative & A
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HumphreyCurtis&theme=github_dark" height="165"/>
   &nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyCurtis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <br/><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HumphreyCurtis&theme=github_dark" width="100%"/>
 </div>
 
 ---
