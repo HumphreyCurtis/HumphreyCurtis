@@ -50,13 +50,16 @@ Human-Computer Interaction · Accessibility · Generative AI · Augmentative & A
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HumphreyCurtis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyCurtis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <br/><br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HumphreyCurtis&theme=nord_dark" height="165"/>
-  &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HumphreyCurtis&theme=nord_dark" height="165"/>
+<table>
+  <tr>
+    <td><img height="165" src="https://github-readme-stats.vercel.app/api?username=HumphreyCurtis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></td>
+    <td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyCurtis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" /></td>
+  </tr>
+  <tr>
+    <td><img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HumphreyCurtis&theme=nord_dark" /></td>
+    <td><img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HumphreyCurtis&theme=nord_dark" /></td>
+  </tr>
+</table>
 </div>
 
 ---
