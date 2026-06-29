@@ -50,9 +50,9 @@ Human-Computer Interaction · Accessibility · Generative AI · Augmentative & A
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,ts,js,nextjs,react,python,latex,figma,mongodb" />
-  <br/><br/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyCurtis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HumphreyCurtis&theme=github_dark" height="165"/>
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HumphreyCurtis&theme=github_dark" height="165"/>
 </div>
 
 ---
