@@ -6,10 +6,8 @@
 
 *Building human-centred technologies at the intersection of GenAI and accessibility*
 
-<br/>
-
 [![Website](https://img.shields.io/badge/Website-humphreycurtis.github.io-4f8ef7?style=flat-square&logo=githubpages&logoColor=white)](https://humphreycurtis.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=t4HUO4MAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=t4HUO4MAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-humphreycurtis1-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humphreycurtis1/)
 [![Twitter](https://img.shields.io/badge/Twitter-@HumphreyCurtis4-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/HumphreyCurtis4)
 
@@ -47,26 +45,9 @@ Human-Computer Interaction · Accessibility · Generative AI · Augmentative & A
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<table>
-  <tr>
-    <td><img height="165" src="https://github-readme-stats.vercel.app/api?username=HumphreyCurtis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></td>
-    <td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyCurtis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" /></td>
-  </tr>
-  <tr>
-    <td><img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HumphreyCurtis&theme=nord_dark" /></td>
-    <td><img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HumphreyCurtis&theme=nord_dark" /></td>
-  </tr>
-</table>
-</div>
-
----
-
 ## 📫 Contact
 
 - 🏫 **University:** humphrey.curtis@kcl.ac.uk
 - 🌐 **Website:** [humphreycurtis.github.io](https://humphreycurtis.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/humphrey-curtis](https://www.linkedin.com/in/humphrey-curtis)
+- 💼 **LinkedIn:** [linkedin.com/in/humphreycurtis1](https://www.linkedin.com/in/humphreycurtis1/)
 - 🐦 **Twitter:** [@HumphreyCurtis4](https://x.com/HumphreyCurtis4)
